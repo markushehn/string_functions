@@ -1,3 +1,11 @@
+/**
+ * @file main.c
+ * @brief main source file
+ * @author Markus Hehn
+ * @date 09.07.2023
+ */
+
+
 #include <stdio.h>
 #include <stdint.h>
 #include "string_functions.h"
