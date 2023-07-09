@@ -1,6 +1,6 @@
 # string_functions-library implemented in C
 
-This library implements string processing functionality in C and is targeting microcontrollers or other embedded platforms with limited processing resources.
+This library implements string processing functionality in C and is targeting microcontrollers or other embedded systems with limited processing resources.
 
 
 
