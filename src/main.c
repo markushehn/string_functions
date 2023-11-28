@@ -6,9 +6,9 @@
  */
 
 
+#include "string_functions.h"
 #include <stdio.h>
 #include <stdint.h>
-#include "string_functions.h"
 
 
 int main(void)
